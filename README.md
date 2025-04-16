@@ -16,7 +16,7 @@ A simple AI chatbot built using Natural Language Processing (NLP) and deep learn
 
 ## Skills Used
 
-- Natural Language Processing (NLP)
+- Natural Language Processing
 - Deep Learning (LSTM)
 - Data preprocessing
 - Model training and deployment in Python
