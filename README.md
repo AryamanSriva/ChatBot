@@ -33,6 +33,5 @@ A simple AI chatbot built using Natural Language Processing (NLP) and deep learn
 ## Future Improvements
 
 - Add more intents and richer training data
-- Integrate speech recognition
 - Use transformer-based models (BERT)
 - Deploy on web or mobile
