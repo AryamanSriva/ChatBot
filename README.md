@@ -9,7 +9,7 @@ A simple AI chatbot built using Natural Language Processing (NLP) and deep learn
 
 - Intent classification using LSTM (via TensorFlow/Keras)
 - Tokenization and lemmatization using NLTK
-- JSON-based training data (intents, patterns, and responses)
+- JSON-based training data (intents, patterns and responses)
 - Save and reload trained model
 - Randomized responses for more natural interaction
 
