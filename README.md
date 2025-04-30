@@ -1,5 +1,4 @@
 
-
 # Chatbot
 
 A simple AI chatbot built using Natural Language Processing (NLP) and deep learning. This project demonstrates how to create a chatbot that classifies user inputs into intents using an LSTM-based model and responds accordingly.
